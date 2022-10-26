@@ -12,4 +12,11 @@
 
 [![Johnathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnathonBowers)](https://github.com/JohnathonBowers/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```text
+CSS      15 mins         █████████████████▒░░░░░░░   69.50 %
+HTML     6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+```
+
 <!--END_SECTION:waka-->
