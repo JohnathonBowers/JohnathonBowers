@@ -14,16 +14,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 10 December 2022
+From: 12 November 2022 - To: 12 December 2022
 
-Total Time: 24 hrs 34 mins
+Total Time: 18 hrs 52 mins
 
-Java             15 hrs 38 mins  ████████████████░░░░░░░░░   63.54 %
-Python           5 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-HTML             1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Text             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Git Config       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Java             16 hrs 20 mins  █████████████████████▓░░░   86.50 %
+Python           1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Text             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+HTML             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Git Config       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
