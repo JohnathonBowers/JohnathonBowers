@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 04 January 2023
+From: 06 December 2022 - To: 05 January 2023
 
-Total Time: 9 hrs 57 mins
+Total Time: 8 hrs 58 mins
 
-Java    9 hrs 54 mins   ████████████████████████▓   98.83 %
-Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java    8 hrs 54 mins   ████████████████████████▓   98.70 %
+Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
