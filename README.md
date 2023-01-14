@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 11 January 2023
+From: 13 December 2022 - To: 12 January 2023
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 17 mins
 
-Java    1 hr 1 min      ██████████████████▓░░░░░░   74.93 %
-HTML    17 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Java    58 mins         ██████████████████▒░░░░░░   73.77 %
+HTML    17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
