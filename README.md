@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 10 February 2023
+From: 12 January 2023 - To: 11 February 2023
 
-Total Time: 40 mins
+Total Time: 1 hr 4 mins
 
-HTML   40 mins         █████████████████████████   99.92 %
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML         50 mins         ███████████████████▓░░░░░   79.00 %
+JavaScript   13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
 ```
 
 <!--END_SECTION:waka-->
