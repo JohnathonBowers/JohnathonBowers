@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnathon</h1>
-<h3 align="center">An aspiring software developer and student at Coding Dojo.</h3>
+<h3 align="center">Software developer finishing a bootcamp through Coding Dojo.</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
