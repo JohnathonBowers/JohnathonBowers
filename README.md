@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 17 May 2023
+From: 18 April 2023 - To: 18 May 2023
 
-Total Time: 45 hrs 54 mins
+Total Time: 47 hrs 2 mins
 
-HTML         13 hrs 54 mins  ███████▒░░░░░░░░░░░░░░░░░   29.93 %
-JavaScript   13 hrs 21 mins  ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-Python       11 hrs 36 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-Markdown     5 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-CSS          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+HTML         14 hrs 7 mins   ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+JavaScript   13 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Python       11 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Markdown     5 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+CSS          1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
