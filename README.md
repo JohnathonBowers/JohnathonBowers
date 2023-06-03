@@ -12,16 +12,16 @@
 [![Johnathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnathonBowers)](https://github.com/JohnathonBowers/github-readme-stats)
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 29 hrs 32 mins
+Total Time: 30 hrs 28 mins
 
-JavaScript   26 hrs 18 mins  ██████████████████████░░░   88.14 %
-CSS          1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JavaScript   27 hrs 11 mins  ██████████████████████░░░   88.10 %
+CSS          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+HTML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
