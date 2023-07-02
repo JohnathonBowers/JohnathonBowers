@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 29 June 2023
+From: 31 May 2023 - To: 30 June 2023
 
-Total Time: 15 hrs 46 mins
+Total Time: 13 hrs 43 mins
 
-JavaScript       6 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.61 %
-Java             4 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Markdown         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Bash             1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-JSON             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Java             5 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.93 %
+JavaScript       4 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
+Markdown         1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Bash             1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+JSON             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
