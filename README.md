@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnathon</h1>
 
-- 🌱 I’m currently learning **Java Data Structures and Algorithms**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me: **johnathonbowers@gmail.com**
 
