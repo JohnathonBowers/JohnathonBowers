@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Johnathon</h1>
 
-I'm a software engineer with experience building full-stack applications in JavaScript / MERN, Python, and Java. I have a 10-year background teaching philosophy and liberal arts as a college professor and 4+ years combined experience in customer service and customer-facing roles.
+Software engineer with a teachable heart, a team-player mentality, and a good dose of grit. 
 
-Having been a college professor, I am skilled at leading groups of people to accomplish shared goals, learning new information quickly, explaining complex topics in an accessible and engaging manner, designing and implementing detailed projects, and using a variety of feedback mechanisms to assess and improve the user experience.
+Following my lifelong passion for technology, I completed a software development bootcamp through Coding Dojo, gaining hands-on experience building full-stack applications using Python, Java, and JavaScript / MERN. You can learn more about my technical project work if you scroll down a bit! ⬇️
 
-My background in customer service has enabled me to interact well with people from diverse backgrounds, prioritize tasks to meet business needs, resolve conflict, and adapt quickly to changing circumstances.
+This experience provided me with a solid technical foundation to build on, but it also taught me that effective software development requires so much more than writing clean, efficient code (though it doesn't require less!). It also requires endless curiosity, emotional maturity, a growth mindset, and a passion for solving problems. 🧐
 
-In 2022, I decided to draw upon a lifelong passion by making a career shift into tech. In order to jump-start my preparation, I enrolled in a software development bootcamp through Coding Dojo. 
+What I bring to the 'technical' table:
 
-This experience provided me with a solid technical foundation to build on, but it also taught me that effective software development requires so much more than writing clean, efficient code (though it does not require less!). It also requires endless curiosity, a teachable heart, a team-player mentality, and a good dose of grit. A worthy calling if there ever was one. ❤️
+💻 1+ year building apps in Python, Java, and JavaScript / MERN
+📚 10-year background teaching philosophy and liberal arts as a college professor
+🤝 4+ years combined experience in customer service and customer-facing roles.
 
-As much as I enjoy having staring contests with my computer screen, I also enjoy things like spending time with my family, reading books, playing video games, and cultivating my lifelong love for all things Teenage Mutant Ninja Turtles.
+What do I enjoy outside of coding?
 
-I would love to connect with you to talk about software engineering opportunities at your company or organization. To learn more about my projects, you can visit my pinned repositories.
+As much as I enjoy having staring contests with my computer screen 💻, I also enjoy things like spending time with my family, reading books, playing video games, and cultivating my lifelong love for all things Teenage Mutant Ninja Turtles. 🥷 🐢
 
-Talk to you soon!
+Open to software engineering opportunities. 
+
+Read about my experiences at https://www.linkedin.com/in/johnathonbowers/. See my pinned repositories below for projects I've worked on.
 
 
 <h3 align="left">Languages and Tools:</h3>
