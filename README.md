@@ -6,7 +6,7 @@ Following my lifelong passion for technology, I completed a software development
 
 This experience provided me with a solid technical foundation to build on, but it also taught me that effective software development requires so much more than writing clean, efficient code (though it doesn't require less!). It also requires endless curiosity, emotional maturity, a growth mindset, and a passion for solving problems. 🧐
 
-What I bring to the 'technical' table:
+**What I bring to the 'technical' table:**
 
 💻 1 year building apps in Python, Java, and JavaScript / MERN
 
@@ -14,7 +14,7 @@ What I bring to the 'technical' table:
 
 🤝 4+ years combined experience in customer service and customer-facing roles.
 
-What do I enjoy outside of coding?
+**What do I enjoy outside of coding?**
 
 As much as I enjoy having staring contests with my computer screen 💻, I also enjoy things like spending time with my family, reading books, playing video games, and cultivating my lifelong love for all things Teenage Mutant Ninja Turtles. 🥷 🐢
 
