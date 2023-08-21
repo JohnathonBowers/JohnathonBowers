@@ -8,9 +8,11 @@ This experience provided me with a solid technical foundation to build on, but i
 
 What I bring to the 'technical' table:
 
-- 💻 1+ year building apps in Python, Java, and JavaScript / MERN
-- 📚 10-year background teaching philosophy and liberal arts as a college professor
-- 🤝 4+ years combined experience in customer service and customer-facing roles.
+💻 1 year building apps in Python, Java, and JavaScript / MERN
+
+📚 10-year background teaching philosophy and liberal arts as a college professor
+
+🤝 4+ years combined experience in customer service and customer-facing roles.
 
 What do I enjoy outside of coding?
 
