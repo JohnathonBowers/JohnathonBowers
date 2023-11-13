@@ -8,7 +8,7 @@ This experience provided me with a solid technical foundation to build on, but i
 
 <strong>What I bring to the 'technical' table:</strong>
 
-💻 1 year building apps in Python, Java, and JavaScript / MERN
+💻 1+ years building apps in Python, Java, and JavaScript / MERN
 
 📚 10-year background teaching philosophy and liberal arts as a college professor
 
